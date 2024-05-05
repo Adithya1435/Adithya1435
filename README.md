@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">👋 Hi, I'm Adithya</h1>
+
+- 🔭 I’m currently working on a **Project using stm32**
+- 🌱 I’m currently learning **ARM Cortex ISA**
+- 👯 I’m looking to collaborate on **Embedded Systems projects**
+- 🏢 I'm a student of **NITK**
 
 <!--
 **Adithya1435/Adithya1435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
