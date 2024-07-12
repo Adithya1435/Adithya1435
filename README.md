@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Adithya</h1>
 
-- 🔭 I’m currently working on a **Project using stm32**
+- 🔭 I’m currently working on a **Nothing (done with a project, now learning)**
 - 🌱 I’m currently learning **ARM Cortex ISA**
 - 👯 I’m looking to collaborate on **Embedded Systems projects**
 - 🏢 I'm a student of **NITK**
