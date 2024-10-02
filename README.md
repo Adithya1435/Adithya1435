@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm Adithya</h1>
 
-- 🔭 I’m currently working on a **Nothing (done with a project, now learning)**
-- 🌱 I’m currently learning **ARM Cortex ISA**
-- 👯 I’m looking to collaborate on **Embedded Systems projects**
+- 🔭 I’m currently working on a **Implementing RISC-V in a FPGA**
+- 🌱 I’m currently learning **FPGA**
 - 🏢 I'm a student of **NITK**
 
 <!--
